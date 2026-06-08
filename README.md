@@ -1,5 +1,6 @@
 # Classificador binário - Random Forest
-### Objetivo: predizer se uma pessoa é diabética ou não
+### Objetivo
+predizer se uma pessoa é diabética ou não
 ### Bibliotecas
 Scikit-learn (sklearn), pandas, 
 ### Metodologia
