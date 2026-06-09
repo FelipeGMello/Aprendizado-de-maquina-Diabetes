@@ -6,4 +6,5 @@ Scikit-learn (sklearn), pandas,
 ### Metodologia
 Cross-validation em 5 folds com GridSearch para a escolha dos hiperparâmetros
 ### Parâmetros utilizados - Random Forest
-n_estimators=300, max_depth=12, min_samples_split=8. Outros parâmetros continuaram na forma padrão(default).
+Parâmetros definidos pro cross-validantion utilizando GridSearch.
+max_depth: 11, min_samples_split: 3, n_estimators: 500. O resto é padrão da biblioteca.
