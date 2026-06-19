@@ -1,8 +1,8 @@
 # Classificador binário - Random Forest
 ### Objetivo
-predizer se uma pessoa é diabética ou não
+Predizer se uma pessoa é diabética ou não.
 ### Bibliotecas
-Scikit-learn (sklearn), pandas, 
+Scikit-learn (sklearn), pandas e matplotlib
 ### Origem dos dados
 Os dados vieram do dataset feito por Alex Teboul, no kaggle: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset. Vale ressaltar que este dataset é feito sobre outro dataset bem maior, do Centers for Disease Control and Prevention. O nome do dataset é Behavioral Risk Factor Surveillance System: https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system. O caderno contendo os métodos de normalização, limpeza de dados entre outros, está em: https://www.kaggle.com/code/alexteboul/diabetes-health-indicators-dataset-notebook
 ### Metodologia
